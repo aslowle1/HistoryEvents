@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>President Kennedy is assassinated in Dallas, Tex.</string>
+		<string>President Johnson signs the Civil Rights Act</string>
+		<string>Martin Luther King, Jr., is assassinated in Memphis, Tenn</string>
+		<string>Richard Nixon is inaugurated as the 37th president </string>
+	</array>
+	<array>
+		<string>Alaska becomes the 49th state</string>
+		<string>Hawaii becomes the 50th</string>
+		<string>Bay of Pigs invasion of Cuba fails</string>
+		<string>Martin Luther King, Jr., delivers his “I Have a Dream” speech</string>
+	</array>
+	<array>
+		<string>Korean War</string>
+		<string>Vietnam War</string>
+		<string>Puerto Rico becomes a U.S. commonwealth </string>
+		<string>Explorer I, first American satellite, is launched</string>
+	</array>
+	<array>
+		<string>Soviets begin blockade of Berlin in the first major crisis of the cold war </string>
+		<string> Soviets begin blockade of Berlin in the first major crisis of the cold war </string>
+		<string>Truman&apos;s second inauguration</string>
+		<string>North Atlantic Treaty Organization (NATO) is established</string>
+	</array>
+	<array>
+		<string> U.S. drops atomic bomb on Hiroshima, Japan</string>
+		<string>U.S. drops atomic bomb on Nagasaki, Japan</string>
+		<string>United Nations is established </string>
+		<string>Central Intelligence Agency is established</string>
+	</array>
+	<array>
+		<string>Franklin Roosevelt is inaugurated as the 32nd president</string>
+		<string>Japan attacks Hawaii, Guam, and the Philippines</string>
+		<string>President Roosevelt, Churchill, and Stalin meet at Yalta in the USSR to discuss postwar occupation of Germany</string>
+		<string>First atomic bomb is detonated at Alamogordo, N.M.</string>
+	</array>
+	<array>
+		<string>Herbert Hoover is inaugurated as the 31st president</string>
+		<string>Stock market crash precipitates the Great Depression </string>
+		<string>The Star-Spangled Banner is adopted as the national anthem </string>
+		<string> Amelia Earhart completes first solo nonstop transatlantic flight by a woman</string>
+	</array>
+	<array>
+		<string>U.S. agrees to purchase Danish West Indies (Virgin Islands) for $25 million</string>
+		<string>League of Nations meets for the first time</string>
+		<string>President Wilson suffers a stroke</string>
+		<string>Warren G. Harding is inaugurated as the 29th president</string>
+	</array>
+	<array>
+		<string>William Howard Taft is inaugurated as the 27th president</string>
+		<string>U.S. enters World War I, declaring war on Germany</string>
+		<string>Panama Canal opens to traffic</string>
+		<string>First long distance telephone service, between New York and San Francisco, is demonstrated</string>
+	</array>
+	<array>
+		<string>U.S. acquires Panama Canal Zone</string>
+		<string>Wright brothers make the first controlled, sustained flight</string>
+		<string>Theodore Roosevelt&apos;s second inauguration</string>
+		<string>Bureau of Investigation, forerunner of the FBI, is established</string>
+	</array>
+	<array>
+		<string>William McKinley is inaugurated as the 25th president</string>
+		<string>Treaty of Paris is signed, ending the Spanish-American War</string>
+		<string>U.S. annexes Hawaii by an act of Congress</string>
+		<string>U.S. acquires American Samoa by treaty with Great Britain and Germany</string>
+	</array>
+	<array>
+		<string>Ellis Island becomes chief immigration station of the U.S.</string>
+		<string>Grover Cleveland is inaugurated a second time, as the 24th president</string>
+		<string>Plessy v. Ferguson</string>
+		<string>Spanish-American War: USS Maine is blown up in Havana harbor</string>
+	</array>
+	<array>
+		<string>James A. Garfield is inaugurated as the 20th president </string>
+		<string>U.S. adopts standard time</string>
+		<string>Statue of Liberty is dedicated</string>
+		<string>National American Woman Suffrage Association (NAWSA) is founded</string>
+	</array>
+	<array>
+		<string>President Johnson is impeached by the House of Representatives </string>
+		<string>Ulysses S. Grant is inaugurated as the 18th president </string>
+		<string>Fifteenth Amendment to the Constitution is ratified, giving blacks the right to vote</string>
+		<string>The first telephone line is built from Boston to Somerville, Mass</string>
+	</array>
+	<array>
+		<string>Homestead Act becomes law, allowing settlers to claim land</string>
+		<string>Lincoln is assassinated</string>
+		<string> Thirteenth Amendment to the Constitution is ratified, prohibiting slavery</string>
+		<string>U.S. acquires Alaska from Russia for the sum of $7.2 million</string>
+	</array>
+	<array>
+		<string>Gen. William T. Sherman captures Atlanta</string>
+		<string> Lincoln&apos;s second inauguration</string>
+		<string>Gen. Ulysses S. Grant captures Richmond, Va</string>
+		<string>Confederate general Robert E. Lee surrenders to Ulysses S. Grant at Appomattox Courthouse, Va</string>
+	</array>
+	<array>
+		<string>Gold is discovered at Sutter&apos;s Mill in California</string>
+		<string>Women&apos;s rights convention is held at Seneca Falls, N.Y.</string>
+		<string>Zachary Taylor is inaugurated as the 12th president</string>
+		<string>Harriet Tubman escapes from slavery</string>
+	</array>
+	<array>
+		<string>Abolitionist John Brown and 21 followers capture federal arsenal at Harpers Ferry, Va.</string>
+		<string>Abraham Lincoln is elected president </string>
+		<string>Emancipation Proclamation is issued, freeing slaves in the Confederate states</string>
+		<string> Battle of Gettysburg is fought </string>
+	</array>
+	<array>
+		<string>Martin Van Buren is inaugurated as the eighth president</string>
+		<string>William Henry Harrison is inaugurated as the ninth president</string>
+		<string>The term “manifest destiny” appears for the first time in a magazine article by John L. O&apos;Sullivan</string>
+		<string>U.S. declares war on Mexico in effort to gain California and other territory in Southwest</string>
+	</array>
+	<array>
+		<string>Andrew Jackson is inaugurated as seventh president</string>
+		<string>President Jackson signs the Indian Removal Act</string>
+		<string>Nat Turner, an enslaved African American preacher, leads the most significant slave uprising in American history</string>
+		<string>Texas declares its independence from Mexico</string>
+	</array>
+	<array>
+		<string>James Monroe is inaugurated as the fifth president</string>
+		<string>Missouri Compromise</string>
+		<string>Monroe Doctrine</string>
+		<string>John Quincy Adams is inaugurated as the sixth president</string>
+	</array>
+	<array>
+		<string>Lewis and Clark set out from St. Louis, Mo., on expedition to explore the West and find a route to the Pacific Ocean.</string>
+		<string>Jefferson&apos;s second inauguration </string>
+		<string>James Madison is inaugurated as the fourth president</string>
+		<string>U.S. declares war on Britain over British interference with American maritime shipping and westward expansion</string>
+	</array>
+	<array>
+		<string>First Continental Congressmeets in Philadelphia, with 56 delegates representing every colony except Georgia. </string>
+		<string>American Revolution: War of independence fought between Great Britain and the 13 British colonies on the eastern seaboard of North America.</string>
+		<string>Continental Congress adopts theDeclaration of Independencein Philadelphia </string>
+		<string>Shays&apos;s Rebellion erupts (Aug.); farmers from New Hampshire to South Carolina take up arms to protest high state taxes and stiff penalties for failure to pay.</string>
+	</array>
+	<array>
+		<string>U.S. Supreme Courtmeets for the first time at the Merchants Exchange Building in New York City</string>
+		<string>First ten amendments to the Constitution, known as the Bill of Rights, are ratified </string>
+		<string>Washington&apos;s second inauguration is held in Philadelphia</string>
+		<string>John Adamsis inaugurated as the second president in Philadelphia</string>
+	</array>
+	<array>
+		<string>The Plymouth Colony in Massachusetts is established by Pilgrims from England</string>
+		<string>English seize New Amsterdam (city and colony) from the Dutch and rename it New York</string>
+		<string>Britain and the British colonies switch from the Julian to the Gregorian calendar </string>
+		<string>Boston Massacre:British troops fire into a mob, killing five men and leading to intense public protests</string>
+	</array>
+	<array>
+		<string>Norse seaman Leif Ericsson lands in Newfoundland, which he calls Vinland.</string>
+		<string>Christopher Columbus, financed by Spain, makes the first of four voyages to the New World. He lands in the Bahamas</string>
+		<string>Spanish explorer Juan Ponce de León lands on the coast of Florida.</string>
+		<string>Saint Augustine, Florida, settled by the Spanish, becomes the first permanent European colony in North America.</string>
+	</array>
+</array>
+</plist>

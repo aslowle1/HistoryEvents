@@ -7,14 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E00293A1DFC313E0050B172 /* EntryPointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0029391DFC313E0050B172 /* EntryPointViewController.swift */; };
+		5E7420F51DF5D14600DCB431 /* NewGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7420F41DF5D14600DCB431 /* NewGameViewController.swift */; };
 		5E81EC4F1DF47F9A00D987A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E81EC4E1DF47F9A00D987A7 /* AppDelegate.swift */; };
 		5E81EC511DF47F9A00D987A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E81EC501DF47F9A00D987A7 /* ViewController.swift */; };
 		5E81EC541DF47F9A00D987A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E81EC521DF47F9A00D987A7 /* Main.storyboard */; };
 		5E81EC561DF47F9A00D987A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E81EC551DF47F9A00D987A7 /* Assets.xcassets */; };
 		5E81EC591DF47F9A00D987A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E81EC571DF47F9A00D987A7 /* LaunchScreen.storyboard */; };
+		5E81EC611DF47FD300D987A7 /* HistoricalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E81EC601DF47FD300D987A7 /* HistoricalModel.swift */; };
+		5E81EC631DF480E100D987A7 /* ListOfEvents.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E81EC621DF480E100D987A7 /* ListOfEvents.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E0029391DFC313E0050B172 /* EntryPointViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntryPointViewController.swift; sourceTree = "<group>"; };
+		5E7420F41DF5D14600DCB431 /* NewGameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewGameViewController.swift; sourceTree = "<group>"; };
 		5E81EC4B1DF47F9A00D987A7 /* HistoricalEvents2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HistoricalEvents2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E81EC4E1DF47F9A00D987A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E81EC501DF47F9A00D987A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +28,8 @@
 		5E81EC551DF47F9A00D987A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E81EC581DF47F9A00D987A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E81EC5A1DF47F9A00D987A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E81EC601DF47FD300D987A7 /* HistoricalModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoricalModel.swift; sourceTree = "<group>"; };
+		5E81EC621DF480E100D987A7 /* ListOfEvents.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListOfEvents.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +68,10 @@
 				5E81EC551DF47F9A00D987A7 /* Assets.xcassets */,
 				5E81EC571DF47F9A00D987A7 /* LaunchScreen.storyboard */,
 				5E81EC5A1DF47F9A00D987A7 /* Info.plist */,
+				5E81EC601DF47FD300D987A7 /* HistoricalModel.swift */,
+				5E81EC621DF480E100D987A7 /* ListOfEvents.plist */,
+				5E7420F41DF5D14600DCB431 /* NewGameViewController.swift */,
+				5E0029391DFC313E0050B172 /* EntryPointViewController.swift */,
 			);
 			path = HistoricalEvents2;
 			sourceTree = "<group>";
@@ -96,6 +108,7 @@
 				TargetAttributes = {
 					5E81EC4A1DF47F9A00D987A7 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -125,6 +138,7 @@
 				5E81EC591DF47F9A00D987A7 /* LaunchScreen.storyboard in Resources */,
 				5E81EC561DF47F9A00D987A7 /* Assets.xcassets in Resources */,
 				5E81EC541DF47F9A00D987A7 /* Main.storyboard in Resources */,
+				5E81EC631DF480E100D987A7 /* ListOfEvents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +150,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E81EC511DF47F9A00D987A7 /* ViewController.swift in Sources */,
+				5E7420F51DF5D14600DCB431 /* NewGameViewController.swift in Sources */,
+				5E00293A1DFC313E0050B172 /* EntryPointViewController.swift in Sources */,
+				5E81EC611DF47FD300D987A7 /* HistoricalModel.swift in Sources */,
 				5E81EC4F1DF47F9A00D987A7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -255,6 +272,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.andros.HistoricalEvents2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -266,6 +284,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.andros.HistoricalEvents2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -288,6 +307,7 @@
 				5E81EC5F1DF47F9A00D987A7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
